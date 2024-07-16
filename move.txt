@@ -1,0 +1,108 @@
+Wall-e(2008)
+genre: space, robot
+length: short
+pre 2010s: yes
+
+gravity(2013)
+genre: thriller,
+length: short
+pre 2010s: no
+
+The Wandering Earth(2019)
+genre: space, thriller
+length: short
+pre 2010s: no
+
+The Martian(2015)
+genre: space
+length: long
+pre 2010s: no
+
+The Star Wars Prequel(1999-2005)
+genre: space, action
+length: short
+pre 2010s: yes
+
+Interstellar(2014)
+genre: space, thriller
+length: long
+pre 2010s: no
+complex
+
+Your Name(2016)
+genre: time travel, anime/cartoon
+length: short
+pre 2010s: no
+
+Edge of Tomorrow(2014)
+genre: time travel, action
+length: short
+pre 2010s: no
+
+Back to The Future(1985)
+genre: time travel
+length: short
+pre 2010s: yes
+
+Are you interested in movies less than 2.5hrs?
+Are you interested in movies pre 2000s? 
+Are you interested in space movies?
+Are you interested in time travel movies?
+Are you interested in robot movies?
+Are you interested in dystopian movies?
+Are you interested in movies with complex plots?
+Are your interested in cartoon/anime movies?
+Are you interested in movies with sequels 
+
+The Matrix(1999 - 2021)
+genre: robot, dystopian, action
+length: short
+pre 2010s: no + yes
+
+Blade Runner(1982)
+genre: robot, dystopian
+pre 2010s: no
+length: short
+pre 2010s: yes
+
+Blade Runner 2049(2017)
+genre: robot, dystopian
+length: long
+pre 2010s: no
+
+Ex Machina(2014)
+genre: robot,
+length: short
+pre 2010s: no
+
+Ender's Game(2013)
+genre: robot
+length: short
+pre 2010s: no
+
+The Terminator(1984) NEW
+genre: robot
+length: short
+pre 2010s: yes
+
+Tenet(2020) NEW
+genre: time travel
+length: long
+pre 2010s: no
+complex
+
+Inception(2010)
+genre: other
+length: long
+pre 2010s: no
+complex
+
+Everything Everywhere All at Once(2022)
+genre: other
+length: short
+pre 2010s: no
+
+Children of Men(2006)
+genre: other, thriller, dystopian
+length: short
+pre 2010s: yes

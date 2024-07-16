@@ -1,0 +1,10 @@
+Welcome to Sci-Fi Suggester, would you like a Sci-Fi movie suggestion?
+Are you interested in movies less than 2.5hrs?
+Are you interested in movies pre 2000s?
+Are you interested in space movies?
+Are you interested in time travel movies?
+Are you interested in robot movies?
+Are you interested in dystopian movies?
+Are you interested in movies with complex plots?
+Are you interested in movies with sequels?
+Would you like another sci-fi suggestion?
